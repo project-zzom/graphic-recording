@@ -1,9 +1,26 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "About"
+#  - title: "About"
+#  - title: "ZZOM"
+#    url: https://zzom.io
+#    target: "_blank" # custom
+  - title: "도서 정보"
     url: /about/
+  - title: "구매처"
+    url: /shop/    
+#  - title: "새소식"
+#    url: /posts/
+  - title: "정오표"
+    url: /errata/
+  - title: "다운로드"
+    url: /download/
+  # - title: "서포터스"
+  #   url: /supporters.html
+  - title: "크라우드펀딩"
+    url: /crowdfunding/

@@ -1,15 +1,21 @@
 ---
 permalink: /supporters.html
+title: "크라우드펀딩"
+excerpt: "비주얼 씽킹으로 이야기를 기록하는 방법"
+header:
+  og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
+  overlay_image: /assets/images/header/header-github-pages.png
+  overlay_filter: 0.5
 ---
 
-<!--
-## 도움 주신 분들
+## 크라우드펀딩 결과
 
-도움을 주신 모든 분께 감사드립니다.
+크라우드펀딩은 <a href="https://tumblbug.com/graphicrecording" target="_blank">'텀블벅'</a>에서 진행되었습니다.
+아쉽게도 달성률 260%로 목표를 달성했습니다!
 
-{% for supporter in site.data.supporters %}* {{ supporter.name }} / {{ supporter.role }}
-{% endfor %}
--->
+{% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-1.png" %}
+
+{% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-2.png" %}
 
 ## 만든 사람들
 * 글, 그림: 구보타 아사미

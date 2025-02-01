@@ -1,5 +1,5 @@
 ---
-permalink: /errata/
+permalink: /errata.html
 title: "정오표"
 excerpt: "잘못된 부분 바로 잡습니다"
 header:
@@ -131,4 +131,3 @@ toc_sticky: true
 * 참고: <a href="" target="_blank"></a>
 * 확인된 버전: 종이책 1쇄, 전자책 v1.0
 -->
-

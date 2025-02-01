@@ -4,7 +4,7 @@ title: "구매처"
 excerpt: "가장 편한 시간에 가장 좋은 방법으로 구매하세요"
 header:
   og_image: /assets/images/thumbnail/girl-holding-box-blue-hoodie.png
-  overlay_image: /assets/images/banner/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 toc: true
 toc_sticky: true

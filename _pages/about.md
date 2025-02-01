@@ -4,7 +4,7 @@ title: "도서 정보"
 excerpt: "쉽고 빠르게 디지털 페인팅에 입문하세요"
 header:
   og_image: /assets/images/cover/cover-front-ko.jpg
-  overlay_image: /assets/images/banner/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 toc: true
 toc_sticky: true

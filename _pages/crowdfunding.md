@@ -4,7 +4,7 @@ title: "크라우드펀딩"
 excerpt: "비주얼 씽킹으로 이야기를 기록하는 방법"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
-  overlay_image: /assets/images/banner/header-github-pages.png
+  overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
 ---
 

@@ -347,13 +347,13 @@ gallery:
 
 ## 관련 영상
 
+### 그래픽 레코딩
+
 {% include video id="doFdfSVzUgo" provider="youtube" %}
 
 {% include video id="8OSMxZYNdTo" provider="youtube" %}
 
 {% include video id="PfjA5Iol01Q" provider="youtube" %}
-
----
 
 {% include video id="vecnYidIKes" provider="youtube" %}
 
@@ -381,16 +381,21 @@ gallery:
 
 {% include video id="EUiWxp8mtLk" provider="youtube" %}
 
+{% include video id="4Xphqf8W4bg" provider="youtube" %}
+
+### 그래픽 레코딩 + 워크북 + 마커 + 아티스트 글로브
+
+{% include video id="ZFANfx42dmc" provider="youtube" %}
+
 ---
 
 ## 관련 굿즈
 
-![goods]({{ site.url }}{{ site.baseurl }}/assets/images/goods/book-workbook-marker-glove-package.png){: .align-center}
-
-* 제품명: 그래픽 래코딩 + 워크북 + 마커 + 아티스트 글로브 패키지
+### 그래픽 래코딩 + 워크북 + 마커 + 아티스트 글로브 패키지
+![Goods 1]({{ site.url }}{{ site.baseurl }}/assets/images/goods/book-workbook-marker-glove-package.png){: .align-center}
 * 판매처: 텀블벅 크라우드펀딩 전용 (비매품) <a href="https://tumblbug.com/graphicrecording" target="_blank" class="btn btn--info btn--small">텀블벅</a>
 
-![goods]({{ site.url }}{{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
+### 아티스트 글로브
 
-* 제품명: 아티스트 글로브
+![Goods 2]({{ site.url }}{{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
 * 판매처: <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>

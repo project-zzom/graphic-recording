@@ -28,20 +28,17 @@ gallery:
   - url: /assets/images/mockup/mockup-09.jpg
     image_path: /assets/images/mockup/mockup-09.jpg    
 ---
-## 책 소개
+## 책 내용 안내
 
 {% include video id="/afy0ufqHep4" provider="youtube" %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
 
-### ZZOM 스토어
 <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818691318" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://link.coupang.com/a/ccyPXB" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/440697" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/svzijq" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
-
-### 온오프라인 서점
 <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="btn btn--info btn--small link-shop">알라딘</a>
 <a href="https://www.yes24.com/Product/Goods/103597086" target="_blank" class="btn btn--info btn--small link-shop">Yes24</a>
@@ -103,7 +100,7 @@ gallery:
 * 글쓴이, 그린이: 딥 블리자드 / 옮긴이: 신상재
 * 판매처: <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://www.coupang.com/vp/products/7818691318" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 마이샵</a>
+<a href="https://link.coupang.com/a/ccyPXB" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/440697" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/svzijq" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -347,7 +344,7 @@ gallery:
 
 ## 관련 영상
 
-### 그래픽 레코딩
+■ 그래픽 레코딩
 
 {% include video id="doFdfSVzUgo" provider="youtube" %}
 
@@ -383,19 +380,8 @@ gallery:
 
 {% include video id="4Xphqf8W4bg" provider="youtube" %}
 
-### 그래픽 레코딩 + 워크북 + 마커 + 아티스트 글로브
+■ 그래픽 레코딩 + 워크북 + 마커 + 아티스트 글로브
 
 {% include video id="ZFANfx42dmc" provider="youtube" %}
 
----
-
-## 관련 굿즈
-
-### 그래픽 래코딩 + 워크북 + 마커 + 아티스트 글로브 패키지
-![Goods 1]({{ site.url }}{{ site.baseurl }}/assets/images/goods/book-workbook-marker-glove-package.png){: .align-center}
-* 판매처: 텀블벅 크라우드펀딩 전용 (비매품) <a href="https://tumblbug.com/graphicrecording" target="_blank" class="btn btn--info btn--small">텀블벅</a>
-
-### 아티스트 글로브
-
-![Goods 2]({{ site.url }}{{ site.baseurl }}/assets/images/goods/artist-glove.png){: .align-center}
-* 판매처: <a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+{% include custom/affiliate.html %}

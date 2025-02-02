@@ -11,7 +11,7 @@ header:
 ## 크라우드펀딩 결과
 
 크라우드펀딩은 <a href="https://tumblbug.com/graphicrecording" target="_blank">'텀블벅'</a>에서 진행되었습니다.
-아쉽게도 달성률 260%로 목표를 달성했습니다!
+다행스럽게도 달성률 260%로 목표를 달성했습니다!
 
 {% include figure popup=true image_path="/assets/images/crowdfunding/crowdfunding-closed-1.png" %}
 

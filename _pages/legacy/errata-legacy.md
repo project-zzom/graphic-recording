@@ -1,6 +1,7 @@
 ---
 permalink: /errata.html
 title: "정오표"
+cannonical_url: "https://zzom.io/graphic-recording/errata/"
 excerpt: "잘못된 부분 바로 잡습니다"
 header:
   og_image: /assets/images/thumbnail/girl-reading-book-white-hoodie.png

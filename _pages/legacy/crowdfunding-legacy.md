@@ -1,6 +1,7 @@
 ---
 permalink: /supporters.html
 title: "크라우드펀딩"
+cannonical_url: "https://zzom.io/graphic-recording/crowdfunding/"
 excerpt: "비주얼 씽킹으로 이야기를 기록하는 방법"
 header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png

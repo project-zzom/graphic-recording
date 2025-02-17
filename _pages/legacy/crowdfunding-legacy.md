@@ -7,6 +7,7 @@ header:
   og_image: /assets/images/crowdfunding/crowdfunding-closed-1.png
   overlay_image: /assets/images/header/header-github-pages.png
   overlay_filter: 0.5
+sitemap: false
 ---
 
 ## 크라우드펀딩 결과

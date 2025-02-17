@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_sticky: true
+sitemap: false
 ---
 ## 오탈자
 

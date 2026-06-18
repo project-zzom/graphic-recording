@@ -19,7 +19,6 @@ toc_sticky: true
 
 <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
-<a href="https://link.coupang.com/a/ccyPXB" target="_blank" class="btn btn--info btn--small link-shop">쿠팡 파트너스</a>
 <a href="https://service.toss.im/shopping/p/440697" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>
 <a href="https://posty.pe/svzijq" target="_blank" class="btn btn--info btn--small link-shop">포스타입</a>
 <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="btn btn--info btn--small link-shop">교보문고</a>
@@ -44,8 +43,6 @@ toc_sticky: true
 #### 프로크리에이트 키패드
 
 ![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 2.png){: .align-center}
-
-<a href="https://link.coupang.com/a/ccyUP9" target="_blank" class="btn btn--info btn--small">쿠팡 파트너스</a>
 
 ![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 1.png){: .align-center}
 

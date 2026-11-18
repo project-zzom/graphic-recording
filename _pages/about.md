@@ -85,19 +85,18 @@ gallery:
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ja.jpg" %}{: .align-center}
 
-* 도서명: 魔王とはじめる!iPadキャライラスト
-* 부제: Procreateを使った簡単&時短テクニック
-* 글쓴이, 그린이: ディープブリザード
-* 판매처: <a href="https://amzn.asia/d/2E7JuMV" target="_blank" class="btn btn--info btn--small">Amazon</a>
+* 도서명: はじめてのグラフィックレコーディング
+* 부제: 考えを図にする、会議を絵にする。
+* 글쓴이, 그린이: 久保田麻美
+* 판매처: <a href="https://amzn.asia/d/05qPNMS3" target="_blank" class="btn btn--info btn--small">Amazon</a>
 
 ### 번역서 정보
 
 {% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}{: .align-center}
 
-* 관칭/관제: 마왕 딥 블리자드가 알려주는
-* 도서명: 캐릭터 일러스트 강좌 with 프로크리에이트
+* 도서명: 처음 배우는 그래픽 레코딩
 * 부제: 비주얼 씽킹으로 이야기를 기록하는 방법
-* 글쓴이, 그린이: 딥 블리자드 / 옮긴이: 신상재
+* 글쓴이, 그린이: 구보타 아사미 / 옮긴이: 신상재
 * 판매처: <a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--info btn--small link-shop">네이버 스마트스토어</a>
 <a href="https://store.kakao.com/zzom/products/327297939" target="_blank" class="btn btn--info btn--small link-shop">카카오 톡딜</a>
 <a href="https://service.toss.im/shopping/p/440697" target="_blank" class="btn btn--info btn--small link-shop">토스 쇼핑</a>

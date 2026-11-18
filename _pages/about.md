@@ -32,8 +32,6 @@ gallery:
 
 {% include video id="/afy0ufqHep4" provider="youtube" %}
 
-{% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
-
 <p><a href="https://smartstore.naver.com/zzom/products/6237850646" target="_blank" class="btn btn--success btn--large link-shop">지금 구매하기 (네이버 스마트스토어)</a></p>
 
 <p>다른 판매처:
@@ -42,6 +40,8 @@ gallery:
 <a href="https://product.kyobobook.co.kr/detail/S000001986426" target="_blank" class="link-shop">교보문고</a> ·
 <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279313050" target="_blank" class="link-shop">알라딘</a> ·
 <a href="https://link.yes24.com/a/LdFpXqwKmF" target="_blank" class="link-shop">Yes24</a></p>
+
+{% include figure popup=true image_path="/assets/images/cover/cover-front-ko.jpg" %}
 
 {% include figure popup=true image_path="/assets/images/cover/cover-spread.jpg" %}{: .align-center}
 

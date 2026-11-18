@@ -43,8 +43,6 @@ toc_sticky: true
 
 ![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 2.png){: .align-center}
 
-![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/procreate-keypad 1.png){: .align-center}
-
-<a href="https://s.click.aliexpress.com/e/_olcibV3" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+<a href="https://s.click.aliexpress.com/e/_c3FonNKp" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
 
 {% include custom/affiliate.html %}

@@ -79,7 +79,11 @@ gallery:
 * 한국 작가 소개
 
 ### 상세 페이지
-![상세 페이지]({{ site.url }}{{ site.baseurl }}/assets/images/detail/detail-page (940 x 7311).jpg)
+<figure class="align-center"><a href="{{ '/assets/images/detail/detail-page (940 x 7311).jpg' | relative_url }}" class="image-popup">
+<img src="{{ '/assets/images/detail/detail-page (940 x 7311)-01-940x2409.jpg' | relative_url }}" alt="" width="940" height="2409" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (940 x 7311)-02-940x2486.jpg' | relative_url }}" alt="" width="940" height="2486" loading="lazy" style="display:block;margin:0;border-radius:0">
+<img src="{{ '/assets/images/detail/detail-page (940 x 7311)-03-940x2416.jpg' | relative_url }}" alt="" width="940" height="2416" loading="lazy" style="display:block;margin:0;border-radius:0">
+</a></figure>
 
 ### 원서 정보
 

@@ -36,7 +36,7 @@ toc_sticky: true
 
 ![Artist Glove]({{ site.url }}{{ site.baseurl }}/assets/images/shop/artist-glove.png){: .align-center}
 
-<a href="https://s.click.aliexpress.com/e/_DDsKwNN" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
+<a href="https://s.click.aliexpress.com/e/_c4LDHxHn" target="_blank" class="btn btn--info btn--small">알리 익스프레스</a>
 
 
 #### 프로크리에이트 키패드
